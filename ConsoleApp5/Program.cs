@@ -1,4 +1,4 @@
-﻿using ConsoleApp5;
+using ConsoleApp5;
 using System;
 using System.Threading;
 
